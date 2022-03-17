@@ -3,3 +3,7 @@
 .debug{
     border: 1px solid black;
 }
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
