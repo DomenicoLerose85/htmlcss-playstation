@@ -16,6 +16,7 @@ body{
 }
 /* /header top */
 
+/* header-bottom */
 .bg-white {
     background-color: white;
 }
@@ -41,6 +42,11 @@ body{
    margin-right: 20px;
 }
 
+/* /header-bottom */
+
+/* main */
+
+/* jumbotron-section */
 #jumbotron{
     background-image: url(img/jumbo-bg.png);
     background-size: cover;
@@ -72,19 +78,54 @@ body{
     border: #cd3d0f;
     margin-top: 30px;
 }
-
-#takes-two{
-    background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
-    background-size: cover;
-    background-position: center;
-}
-
+/* /jumbotron-section */
 
 .card_return{ 
     width: 250px;
     margin: 5px;
     border-radius: 30px;
 }
+
+/* takes-two section */
+#takes-two{
+    background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.takes-two_img{
+    max-width: 400px;
+    color: white;
+    margin: 30px;
+}
+
+.takes-two-logo{
+    width: 250px;
+    height: 180px;
+    padding-top: 50px;
+}
+
+.takes-two_img h1{
+    margin-top: 30px;
+}
+
+.takes-two_img p{
+    margin-top: 30px;
+}
+
+.buy_now_takes-two_btn {
+    width: 120px;
+    height: 40px;
+    background-color: #cd3d0f;
+    color: white;
+    font-weight: 600;
+    border-radius: 30px;
+    border: #cd3d0f;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+/* /takes-two section */
+
 
 
 
