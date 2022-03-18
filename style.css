@@ -16,11 +16,29 @@ body{
 }
 /* /header top */
 
-.nav-logo{
-    display: flex;
-    justify-content: start;
+.bg-white {
+    background-color: white;
 }
 
+.nav_a{
+    color: black;
+}
+
+.access_btn {
+    width: 75px;
+    height: 45px;
+    background-color: #363636;
+    color: white;
+    font-weight: 600;
+    border-radius: 30px;
+    margin-left: 20px;
+}
+
+.ri-search-line{
+   font-size: 25px;
+   margin-left: 20px;
+   margin-right: 20px;
+}
 
 
 
