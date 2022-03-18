@@ -222,7 +222,25 @@ body{
 
 /* /new-releases section */
 
+/* playstation4 section */
 
+.p_ps4{
+    color:black ;
+    font-size: 700px;
+    font-weight: 700;
+    margin-top: 50px;
+}
+
+.ri-registered-line{
+    font-size: 20px;
+}
+
+.p2_ps4{
+    margin-top: 10px;
+    font-weight: 600;
+    color: gray;
+    font-size: 22px;
+}
 
 
 
