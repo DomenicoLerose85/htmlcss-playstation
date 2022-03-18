@@ -80,11 +80,32 @@ body{
 }
 /* /jumbotron-section */
 
+/* PS5 section */
 .card_return{ 
     width: 250px;
     margin: 5px;
     border-radius: 30px;
+    margin-top: 30px;
 }
+
+.p_ps5{
+    color: rgb(24, 142, 245) ;
+    font-size: 10px;
+    font-weight: 700;
+    margin-top: 100px;
+}
+
+.h2_ps5{
+    color: #363636;
+}
+
+.p2_ps5{
+    margin-top: 30px;
+    font-weight: 600;
+    color: gray;
+}
+
+/* /PS5 section */
 
 /* takes-two section */
 #takes-two{
