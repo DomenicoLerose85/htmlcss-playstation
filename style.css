@@ -32,6 +32,7 @@ body{
     font-weight: 600;
     border-radius: 30px;
     margin-left: 20px;
+    border: #363636;
 }
 
 .ri-search-line{
@@ -44,18 +45,44 @@ body{
     background-image: url(img/jumbo-bg.png);
     background-size: cover;
     background-position: center;
+    margin-top: 10px;
 }
 
 .jumbo_img{
     max-width: 400px;
     color: white;
+    margin: 30px;
 }
 
+.jumbo_img h1{
+    margin-top: 30px;
+}
+
+.jumbo_img p{
+    margin-top: 30px;
+}
+
+.buy_now_btn {
+    width: 120px;
+    height: 40px;
+    background-color: #cd3d0f;
+    color: white;
+    font-weight: 600;
+    border-radius: 30px;
+    border: #cd3d0f;
+    margin-top: 30px;
+}
+
+#takes-two{
+    background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position: center;
+}
 
 
 .card_return{ 
     width: 250px;
-    margin: 15px;
+    margin: 5px;
     border-radius: 30px;
 }
 
