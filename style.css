@@ -301,13 +301,12 @@ body{
 /* playstation-plus section */
 
 #playstation-plus {
-    min-height: 600px;
     background-color: #919090
 }
 
 .playstation-plus-logo {
     width: 450px;
-    margin-top: 150px;
+    margin-top: 100px;
     margin-bottom: 50px;
 }
 
@@ -329,11 +328,10 @@ body{
 }
 
 .playstation-plus-img {
-    width: 650px;
-    height: 600px;
-    margin-bottom: 600px;
+    height: 500px;
 }
 
+/* /playstation-plus section */
 
 
 
