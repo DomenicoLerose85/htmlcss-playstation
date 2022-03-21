@@ -296,6 +296,7 @@ body{
 
 .btn.btn-primary {
     border-radius: 25px;
+    margin-bottom: 50px;
 }
 
 /* playstation-plus section */
@@ -330,19 +331,9 @@ body{
 .playstation-plus-img {
     height: 500px;
 }
-
 /* /playstation-plus section */
 
-
-
-/* playstation-now */
-
-
-/* /playstation-now */
-
-
 /* playstation-store section */
-
 .p_ps-store{
     color:black ;
     font-size: 900px;
@@ -352,6 +343,7 @@ body{
 
 .playstation-store-imgs {
     margin-top: 70px;
+    margin-bottom: 50px;
 }
 
 .p2_ps-store {
@@ -360,11 +352,33 @@ body{
     color: gray;
     font-size: 22px;
 }
-
 /* /playstation-store section */
 
-/* social section */
+/* playstation-now */
+#playstation-now{
+    background-color: #161c3b;
+}
 
+.playstation-now-p {
+    font-weight: 600;
+    margin-bottom: 50px;
+    color: white;
+    margin-right: -50px;
+}
+
+.playstation-now-button {
+    width: 255px;
+    height: 45px;
+    background-color: white;
+    color: black;
+    border: white;
+    border-radius: 30px;
+    font-weight: 600;
+    font-size: large;
+}
+/* /playstation-now */
+
+/* social section */
 .h2-social{
     font-weight: 600;
     margin-top: 100px;
