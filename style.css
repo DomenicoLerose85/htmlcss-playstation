@@ -273,6 +273,34 @@ body{
     font-size: 22px;
 }
 
+.cards-conatiner{
+    margin-top: 20px;
+}
+
+.p3_ps4{
+    margin-top: 10px;
+    font-weight: 600;
+    color: gray;
+    font-size: 20px;
+}
+
+.card-title-playstation4{
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+}
+
+/* .playstation4 {
+    width: 400px;
+    margin-right: 20px;
+} */
+
+.btn.btn-primary {
+    border-radius: 25px;
+}
+
+
+
 
 
 
