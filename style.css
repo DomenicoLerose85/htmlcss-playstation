@@ -312,8 +312,9 @@ body{
 }
 
 .playstation-plus-p {
-    font-weight: 500;
+    font-weight: 600;
     margin-bottom: 50px;
+    color: black;
 }
 
 .playstation-plus-button{
