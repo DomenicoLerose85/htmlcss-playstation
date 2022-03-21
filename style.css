@@ -217,7 +217,7 @@ body{
 
 #new-releases{
     background-color: #1f1f1f;
-    height: 700px;
+    min-height: 700px;
 }
 
 .h3_new_releases{
@@ -251,6 +251,10 @@ body{
     font-weight: 400; 
 }
 
+.ri-trademark-line{
+    font-size: 12px;
+    margin-left: 3px;
+}
 /* /new-releases section */
 
 /* playstation4 section */
@@ -294,8 +298,34 @@ body{
     border-radius: 25px;
 }
 
+/* playstation-plus section */
 
+#playstation-plus {
+    min-height: 600px;
+    background-color: #919090
+}
 
+.playstation-plus-logo {
+    width: 450px;
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+.playstation-plus-p {
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+
+.playstation-plus-button{
+    width: 255px;
+    height: 45px;
+    background-color: #d9dadc;
+    color: #2d64e6;
+    border-radius: 30px;
+    font-weight: 600;
+    font-size: large;
+    border: #d9dadc;
+}
 
 
 
